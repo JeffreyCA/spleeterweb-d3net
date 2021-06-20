@@ -1,4 +1,6 @@
-# D3Net (Music Source Separation)
+# D3Net (Music Source Separation) for Spleeter Web
+
+**This is a modified version of the [official D3Net repo](https://github.com/sony/ai-research-code/blob/master/d3net/music-source-separation/) made to be compatible with [Spleeter Web](https://github.com/JeffreyCA/spleeter-web)!**
 
 This is inference code for D3Net based music source separation.
 
