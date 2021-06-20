@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+*.egg-info
+build/
+d3net-mss.h5
+dist/
+env/
