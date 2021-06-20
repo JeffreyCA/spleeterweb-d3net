@@ -4,12 +4,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="d3net-unofficial",
+    name="d3net-spleeterweb",
     version="0.0.1",
     author="JeffreyCA",
     author_email="jeffreyca16@gmail.com",
     description=
-    "Unofficial Python package of D3Net implementation by Sony Research AI.",
+    "Unofficial Python package of D3Net implementation by Sony Research AI, used in Spleeter Web.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/JeffreyCA/spleeterweb-d3net",
